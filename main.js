@@ -2,7 +2,7 @@
 // @name         正方教务系统导出成绩详情
 // @namespace    https://www.klaio.top/
 // @version      1.0.0
-// @description  一键强制获取并导出包括平时成绩、期末成绩和最终成绩在内的完整成绩明细。
+// @description  绕过默认权限限制，一键下载包含平时成绩、期末成绩及最终成绩的完整成绩单。
 // @author       NianBroken
 // @match        *://*.edu.cn/cjcx/*
 // @run-at       document-idle
